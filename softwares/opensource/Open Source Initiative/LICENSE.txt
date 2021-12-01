@@ -1,0 +1,4 @@
+Source: Simon Phipps, former president of OSI, official SVG
+Author: Colin Viebrock
+This file is licensed under the Creative Commons Attribution 2.5 Generic license(https://creativecommons.org/licenses/by/2.5/deed.en).
+The OSI Logo: Usage Guidelines: https://opensource.org/logo-usage-guidelines#Logo_Usage

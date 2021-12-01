@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.3.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1"
+	 id="svg3290" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 744.1 1052.4"
+	 style="enable-background:new 0 0 744.1 1052.4;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#3FA652;stroke:#21552A;stroke-width:23.3073;stroke-linejoin:round;stroke-miterlimit:12.643;}
+	.st1{font-family:'ArialMT';}
+	.st2{font-size:112.1928px;}
+	.st3{fill:none;stroke:#000000;stroke-width:6.6651;}
+	.st4{font-family:'Arial-BoldMT';}
+	.st5{font-size:40px;}
+</style>
+<sodipodi:namedview  bordercolor="#666666" borderopacity="1.0" id="base" inkscape:current-layer="g3879" inkscape:cx="557.86446" inkscape:cy="404.85445" inkscape:document-units="px" inkscape:guide-bbox="true" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:window-height="744" inkscape:window-maximized="1" inkscape:window-width="1366" inkscape:window-x="0" inkscape:window-y="24" inkscape:zoom="0.49497475" pagecolor="#ffffff" showgrid="false" showguides="true">
+	<sodipodi:guide  id="guide3004" orientation="1,0" position="389.91888,215.16249"></sodipodi:guide>
+</sodipodi:namedview>
+<g id="g3879" transform="matrix(3.1607572,0,0,3.1607572,1289.8039,2829.9529)" inkscape:export-filename="/home/paulormm/usp/softwarelivre/OSI/OSI_member_card_model_final-300dpi.png" inkscape:export-xdpi="300.05554" inkscape:export-ydpi="300.05554">
+	
+		<path id="path3773" inkscape:connector-curvature="0" inkscape:export-filename="/home/rafael/workspace/logo-osi/3/png/logo396x412.png" inkscape:export-xdpi="48.18" inkscape:export-ydpi="48.18" class="st0" d="
+		M-276-740.3c15.8-6.1,23.8-23.9,17.7-39.7c-6.1-15.8-23.9-23.8-39.7-17.7c-15.8,6.1-23.8,23.9-17.7,39.7
+		c3.1,8.1,9.5,14.6,17.7,17.7l-20.7,53.9c-45.6-17.5-68.4-68.7-50.9-114.3s68.7-68.4,114.3-50.9c45.6,17.5,68.4,68.7,50.9,114.3
+		c-9,23.4-27.5,41.9-50.9,50.9L-276-740.3z"/>
+	<text transform="matrix(0.3103 0 0 0.3164 -398.8813 -650.1415)" class="st1 st2">open</text>
+	<text transform="matrix(0.3103 0 0 0.3164 -297.0422 -650.7755)" class="st1 st2">source</text>
+	<text transform="matrix(0.3103 0 0 0.3164 -364.9415 -615.3304)" class="st1 st2">initiative</text>
+	
+		<g id="g3797" transform="translate(-21.225811,-1.0146812)" inkscape:export-filename="/home/rafael/workspace/logo-osi/3/png/logo396x412.png" inkscape:export-xdpi="48.18" inkscape:export-ydpi="48.18">
+		
+			<path id="path3015" sodipodi:cx="645.71429" sodipodi:cy="646.64789" sodipodi:rx="23.571428" sodipodi:ry="23.571411" sodipodi:type="arc" class="st3" d="
+			M-175.6-689.5c0,4.4-3.6,8-8,8c-4.4,0-8-3.6-8-8s3.6-8,8-8C-179.1-697.4-175.6-693.9-175.6-689.5z"/>
+		<text transform="matrix(0.3164 0 0 0.3164 -188.2969 -685.33)" class="st4 st5">R</text>
+	</g>
+</g>
+</svg>
